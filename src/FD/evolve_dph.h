@@ -1,0 +1,1 @@
+void evolve_dph_(double *ctfmp,double *n_K,double *n_alpha,double *n_beta,double *n_divbeta,double *n_phi,double *np1_K,double *np1_alpha,double *np1_beta,double *np1_divbeta,double *np1_phi,double *x,int *Nx,double *ht,double *hx,double *myzero,double *zepsdis,int *phys_bdy,double *res);

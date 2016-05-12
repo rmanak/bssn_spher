@@ -1,0 +1,1 @@
+void ire_dtk_(double *ctfmp,double *n_A,double *n_Athth,double *n_Axx,double *n_B,double *n_DDLthetatheta,double *n_DDLxx,double *n_K,double *n_TS,double *n_alpha,double *n_beta,double *n_metthetatheta,double *n_metxx,double *n_rho,double *nm1_K,double *np1_K,int *Nx,double *ht,double *hx,double *res);

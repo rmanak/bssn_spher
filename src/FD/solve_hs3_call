@@ -1,0 +1,1 @@
+solve_hs3_(ctfm,ctfmp,n_A,n_B,n_C1s,n_C5psi,n_psi,octfmp,&Nx,&hx,&myzero,phys_bdy,res);

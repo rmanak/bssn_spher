@@ -1,0 +1,1 @@
+evolve_eqipsi_(n_a1,n_alpha,n_beta,n_iPHI,n_iPI,n_ipsi,np1_a1,np1_alpha,np1_beta,np1_iPHI,np1_iPI,np1_ipsi,x,&Nx,&ht,&myzero,&zepsdis,phys_bdy,res);

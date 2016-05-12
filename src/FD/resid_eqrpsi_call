@@ -1,0 +1,1 @@
+resid_eqrpsi_(n_a1,n_alpha,n_beta,n_rPHI,n_rPI,n_rpsi,np1_a1,np1_alpha,np1_beta,np1_rPHI,np1_rPI,np1_rpsi,x,&Nx,&ht,&myzero,&zepsdis,phys_bdy,res);

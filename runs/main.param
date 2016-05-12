@@ -1,0 +1,57 @@
+level:=0
+read_lo_lev := 0
+lv := -5.0
+rv :=  3.0
+x_min:= -5.0
+x_max:= 2.999999999
+#x_min := 0.0
+#x_max := 0.9999999
+# 0: not compact, 1: ~logarithmic in r, 2: linear
+compact_type := 1
+slicing_c := 1
+# 0: geodesics
+# 1: 1 + log dynamic zero shift
+# 2: harmonic (or another form) dynamical, zero shift
+# 3: K drive failed!
+# 4: 1 + log dynamical, gamma drive shift
+# 5: harmonic , gamma drive failed!
+# 6: generic evolution (can be harmonic) non-advective
+# 7: 1+log dynamical (or generic) dynamic gamma freezing
+
+# Harmonic Slicing gma=1 gmb = 2
+# 1 + log dynamical, gma = 2 gmb = 1
+gma := 2.0
+gmb := 1.0
+gmc := 0.0
+gmd := 0.0
+mus := 0.75
+eta := 0.3
+ck := 0.00
+epsal := 0.0000
+
+amp := 1.421862376800959e-01
+flat_spacetime := 0
+freeze_matter := 0
+lambda:=0.03
+#output_freq:=1
+output_freq_phi := 1
+output_freq := 10
+myzero:=0.0
+Nx:=256
+#steps:= 1024
+steps:= 10000
+deltx:= 1.0
+#deltx := 0.1
+x0 := 8.0
+mass := 0.0
+omega := 0.0
+compute_ire := 0
+init_tol := 1.0e-12
+evol_tol := 1.0e-4
+epsdis := 0.2
+min_evol_iter := 10
+check_bh := 1
+check_dis:= 1
+bh_threshold := 0.95
+dis_threshold := 0.15
+trap_threshold := -0.1

@@ -1,0 +1,1 @@
+resid_alphakd_(n_K,n_alpha,np1_K,np1_alpha,x,&Nx,&ck,&epsal,&ht,&myzero,phys_bdy,res);

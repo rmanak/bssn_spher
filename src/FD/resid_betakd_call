@@ -1,0 +1,1 @@
+resid_betakd_(n_K,n_beta,np1_K,np1_beta,x,&Nx,&eta,&ht,&hx,&mus,&myzero,phys_bdy,res);

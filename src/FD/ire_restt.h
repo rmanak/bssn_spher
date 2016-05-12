@@ -1,0 +1,1 @@
+void ire_restt_(double *ctfm,double *ctfmp,double *n_U,double *n_a1,double *n_alpha,double *n_b1,double *n_beta,double *n_ipsi,double *n_rpsi,double *nm1_a1,double *nm1_b1,double *nm1_ipsi,double *nm1_rpsi,double *np1_a1,double *np1_b1,double *np1_ipsi,double *np1_rpsi,double *octfmp,int *Nx,double *ht,double *hx,double *res);

@@ -1,0 +1,1 @@
+void eval_dlam_(double *ctfm,double *ctfmp,double *n_A,double *n_Athth,double *n_Axx,double *n_B,double *n_K,double *n_Lamx,double *n_Sx,double *n_alpha,double *n_beta,double *n_divbeta,double *n_phi,double *octfmp,double *x,int *Nx,double *hx,double *myzero,double *vee,int *phys_bdy,double *res);

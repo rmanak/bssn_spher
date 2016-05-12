@@ -1,0 +1,1 @@
+solve_hs_(ctfm,ctfmp,n_A,n_B,n_C1s,n_C5s,n_psi,octfmp,&Nx,&hx,phys_bdy,res);

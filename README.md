@@ -1,1 +1,5 @@
-# bssn_spher
+G-BSSN and critical collapse search
+===================================
+
+
+

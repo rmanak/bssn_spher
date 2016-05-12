@@ -1,0 +1,1 @@
+void ire_daatheta_(double *n_DDLthetatheta,double *n_DDLxx,double *n_JSthth,double *n_JSxx,double *n_Pthetatheta,double *n_RRthetatheta,double *n_RRxx,double *n_Uthetatheta,double *n_alpha,double *n_em4phi,double *n_metthetatheta,double *n_metxx,double *nm1_Athth,double *np1_Athth,int *Nx,double *ht,double *res);

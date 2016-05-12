@@ -1,0 +1,1 @@
+void evolve_eqipsi_(double *n_a1,double *n_alpha,double *n_beta,double *n_iPHI,double *n_iPI,double *n_ipsi,double *np1_a1,double *np1_alpha,double *np1_beta,double *np1_iPHI,double *np1_iPI,double *np1_ipsi,double *x,int *Nx,double *ht,double *myzero,double *zepsdis,int *phys_bdy,double *res);

@@ -1,0 +1,1 @@
+void ire_daax_(double *n_DDLthetatheta,double *n_DDLxx,double *n_JSthth,double *n_JSxx,double *n_Pxx,double *n_RRthetatheta,double *n_RRxx,double *n_Uxx,double *n_alpha,double *n_em4phi,double *n_metthetatheta,double *n_metxx,double *nm1_Axx,double *np1_Axx,int *Nx,double *ht,double *res);

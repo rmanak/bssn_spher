@@ -1,0 +1,1 @@
+compute_ddltheta_(ctfm,ctfmp,n_alpha,n_metthetatheta,n_metxx,x,&Nx,&hx,&myzero,phys_bdy,res);

@@ -1,0 +1,1 @@
+void irev_dlamx_(double *ctfm,double *ctfmp,double *n_A,double *n_Athth,double *n_Axx,double *n_B,double *n_K,double *n_Lamx,double *n_Sx,double *n_alpha,double *n_beta,double *n_divbeta,double *n_phi,double *nm1_Lamx,double *np1_Lamx,double *octfmp,int *Nx,double *ht,double *hx,double *vee,double *res);

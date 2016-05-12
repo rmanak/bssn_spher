@@ -1,0 +1,11 @@
+
+Wed Dec 10 15:22:27 PST 2014
+  Added adaptive time stepping 
+
+Sat Nov 29 09:57:38 PST 2014
+  Various coordinate choices added, code is in production 
+
+Fri Nov 21 18:55:23 PST 2014
+  Passes all the tests for IRE/CONV for zero/non-zero shift strong/weak
+  is capable of finding the critical solution
+

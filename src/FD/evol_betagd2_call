@@ -1,0 +1,1 @@
+evol_betagd2_(n_Lamx,n_beta,np1_Lamx,np1_beta,x,&Nx,&ck,&epsal,&ht,&myzero,phys_bdy,res);

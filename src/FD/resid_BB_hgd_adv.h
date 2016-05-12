@@ -1,0 +1,1 @@
+void resid_BB_hgd_adv_(double *ctfmp,double *n_BB,double *n_DLamx,double *n_beta,double *np1_BB,double *np1_DLamx,double *np1_beta,double *x,int *Nx,double *advc,double *eta,double *ht,double *hx,double *myzero,int *phys_bdy,double *res);

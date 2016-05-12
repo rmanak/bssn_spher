@@ -1,0 +1,1 @@
+resid_dgx_(ctfmp,n_A,n_Axx,n_alpha,n_beta,n_divbeta,np1_A,np1_Axx,np1_alpha,np1_beta,np1_divbeta,x,&Nx,&ht,&hx,&myzero,&vee,&zepsdis,phys_bdy,res);

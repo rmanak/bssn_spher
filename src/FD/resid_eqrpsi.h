@@ -1,0 +1,1 @@
+void resid_eqrpsi_(double *n_a1,double *n_alpha,double *n_beta,double *n_rPHI,double *n_rPI,double *n_rpsi,double *np1_a1,double *np1_alpha,double *np1_beta,double *np1_rPHI,double *np1_rPI,double *np1_rpsi,double *x,int *Nx,double *ht,double *myzero,double *zepsdis,int *phys_bdy,double *res);

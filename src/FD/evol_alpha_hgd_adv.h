@@ -1,0 +1,1 @@
+void evol_alpha_hgd_adv_(double *ctfmp,double *n_K,double *n_alpha,double *n_beta,double *np1_K,double *np1_alpha,double *np1_beta,double *x,int *Nx,double *advc,double *ht,double *hx,double *myzero,int *phys_bdy,double *res);

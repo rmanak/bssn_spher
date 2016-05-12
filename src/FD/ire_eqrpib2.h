@@ -1,0 +1,1 @@
+void ire_eqrpib2_(double *ctfm,double *ctfmp,double *n_a1,double *n_alpha,double *n_b1,double *n_beta,double *n_rPIb2,double *n_rpsi,double *nm1_rPIb2,double *np1_rPIb2,double *octfmp,int *Nx,double *ht,double *hx,double *mass,double *res);
