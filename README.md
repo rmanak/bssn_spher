@@ -14,11 +14,9 @@ Requirements
 
 - C and FORTRAN compilers
 - Maple
-- FD Toolkit [+](http://rmanak.github.io/FD)
-- Linux make utilities
-- bbhutil/SDF library (for I/O and driver) [+]
-- GRTensor [+](http://grtensor.phy.queensu.ca/) for computing BSSN formulation
-- 
+- FD Toolkit [[+]](http://rmanak.github.io/FD)
+- GRTensor [[+]](http://grtensor.phy.queensu.ca/) for computing BSSN formulation
+- bbhutil/SDF libraries (for I/O and driver) part of librnpl [[+]](http://laplace.phas.ubc.ca/People/arman/files/RNPL\_ref.pdf)
 
 
 Workflow Sample
